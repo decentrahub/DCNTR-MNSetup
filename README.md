@@ -1,7 +1,7 @@
 # Decentrahub Masternode Setup (Ubuntu 16.04 / 18.04)
 This guide will assist you in setting up a DecentraHub Masternode on a Linux Server running Ubuntu 16.04 / 18.04
 
-If you require further assistance, contact the support team at [Discord](https://discord.gg/SVjbNTg)
+If you require further assistance, contact the support team at <a href="https://discord.gg/SVjbNTg" target="_blank">Discord</a>
 ***
 - [Decentrahub Masternode Setup](#decentrahub-masternode-setup)  
   	* [Requirements](#requirements) 
@@ -25,7 +25,7 @@ If you require further assistance, contact the support team at [Discord](https:/
 - 1000 DCNTR coins.
 - A VPS running Linux Ubuntu 16.04 or 18.04 with 1 CPU & 1GB Memory minimum (2gb Recommended) from [Vultr](https://www.vultr.com/?ref=8622028) or any other providers.
 - DecentraHub Wallet (Local Wallet)
-- An SSH Client ([Putty](https://www.putty.org/) or [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe))
+- An SSH Client (<a href="https://www.putty.org/" target="_blank">Putty</a> or <a href="https://dl.bitvise.com/BvSshClient-Inst.exe" target="_blank">Bitvise</a>)
 
 ***
 ## Connecting to the VPS and installing the masternode script
