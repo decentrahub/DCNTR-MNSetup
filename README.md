@@ -1,7 +1,7 @@
 # Decentrahub Masternode Setup  
 - [Decentrahub Masternode Setup](#decentrahub-masternode-setup)  
+  	* [Requirements](#requirements) 
   * [VPS initial setup](#vps-initial-setup)  
-        * [Requirements](#requirements)   
          [1. Log into the VPS with **root**](#1-log-into-the-vps-with-root)  
          [2. Git Installation](#2-git-installation)  
          [3. Clone MN setup script](#3-clone-mn-setup-script)  
@@ -16,11 +16,14 @@
          [6. Start MN in QT wallet console](#6-start-mn-in-qt-wallet-console)  
 	 [7. Check Masternode Status in VPS](#7-check-masternode-status-in-vps)  
 
-## VPS initial setup
-
 ##### Requirements
-- Ubuntu v16.04.x VPS with 1 CPU / 1gb MEM (recommend 2gb) 
+- 1000 DCNTR coins.
+- A VPS running Linux Ubuntu 16.04 or 18.04 with 1 CPU & 1GB Memory (2gb Recommended) 
+- DecentraHub Wallet (Local Wallet)
+- An SSH Client (Putty or Bitvise)
 
+***
+## VPS initial setup
 ***
 ##### 1. Log into the VPS with **root**  
 [![Vps](https://raw.githubusercontent.com/decentrahub/DCNTR-MNSetup/master/assets/1.png)]
