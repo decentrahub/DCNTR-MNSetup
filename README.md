@@ -96,3 +96,27 @@ If you require further assistance, contact the support team at <a href="https://
 ***
 **Сongratulations you did it!**
 
+
+# Additional Notes:
+
+## Use autocombinerewards features for combine Masternode Rewards.
+
+### For Use it in Local (Windows/Linux/MacOS) Wallet  follow below Step:
+
+- Go to SETTINGS -> Debug -> Console and fire below command in console windows.  
+
+- 	```autocombinerewards true 500```
+
+- Here 500 is the Amount of DCNTR Coin, Wallet will automatically monitor for coins with value below that amount, 
+and combine them in one transaction. So you can keep that amount whatever you want to combine. (Ex. 100 or 200 or 500 or 2000 as you wish).  
+
+- After complete this process if you stop or Exit from wallet and start again than you have to do this same process again.
+Otherwise you can start that wallet 24*7.
+
+### For VPS follow below step: 
+
+- Start daemon in VPS after that fire below command:  
+
+- 	```./decentrahub-cli autocombinerewards true 500```
+
+- Same as above here also you can change amount in place of 500 whatever you want to combine.	
